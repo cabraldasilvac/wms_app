@@ -1,3 +1,5 @@
+# PROJETO EM DESENVOLVIMENTO ...
+
 ## Requisitos
 
 . Node.js 20 ou superior
@@ -15,3 +17,7 @@ Criar o projeto com o React Native usando o Expo
 Executar o projeto
 
 `npx expo start`
+
+Transforma o CSS em componentes
+
+` npm install styled-components`
