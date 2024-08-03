@@ -8,7 +8,7 @@
 
 ## Como rodar o projeto
 
-## Sequencia para criar o projeto
+## Sequência para criar o projeto
 
 Criar o projeto com o React Native usando o Expo
 
